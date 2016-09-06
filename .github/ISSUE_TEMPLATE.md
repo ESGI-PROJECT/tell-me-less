@@ -1,12 +1,10 @@
 # User story
 
-## Title : 
-...
-## Macro estimation :
-...
-
 ## Scenario :
 As **[USER]**, I can **[GOAL]** so that **[JUSTIFY]**
+
+## Description
+...
 
 ## Conditions of satisfaction :
  * ...
@@ -20,3 +18,5 @@ As **[USER]**, I can **[GOAL]** so that **[JUSTIFY]**
 
 ## Mock up :
 Link to [Google drawings](http://drawings.google.com)
+
+## Attachement :
